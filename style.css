@@ -1,21 +1,21 @@
 @font-face {
   font-family: neue-light;
-  src: url(./Font/NeueHaasDisplayLight.ttf);
+  src: url(./Font/NeueHaasDisplayLight.woff);
 }
 
 @font-face {
   font-family: neue-medium;
-  src: url(./Font/NeueHaasDisplayMediu.ttf);
+  src: url(./Font/NeueHaasDisplayMediu.woff);
 }
 
 @font-face {
   font-family: neue-bold;
-  src: url(./Font/NeueHaasDisplayBold.ttf);
+  src: url(./Font/NeueHaasDisplayBold.woff);
 }
 
 @font-face {
   font-family: neue-roman;
-  src: url(./Font/NeueHaasDisplay-Roman.ttf);
+  src: url(./Font/NeueHaasDisplay-Roman.woff);
 }
 
 * {
